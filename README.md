@@ -1,1 +1,1 @@
-# conf-gitub
+# conf-github
